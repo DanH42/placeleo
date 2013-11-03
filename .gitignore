@@ -1,0 +1,5 @@
+newrelic.js
+newrelic_agent.log
+img/*
+cache/*
+log.txt
